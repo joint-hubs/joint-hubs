@@ -1,6 +1,6 @@
 JOINTHUBS
-- 👀 we are interested in data
-- 🌱 we are growing our app base
+- 👀 we are interested in data HUBS
+- 🌱 we are growing our JOINT app base
 - 💞️ we are sharing knowledge
 - 📫 reach us office@jointhubs.com
 
